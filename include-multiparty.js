@@ -1,0 +1,1 @@
+formidable = Npm.require('multiparty');
