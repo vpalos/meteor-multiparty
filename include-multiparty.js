@@ -1,1 +1,1 @@
-formidable = Npm.require('multiparty');
+multiparty = Npm.require('multiparty');
